@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1039660542264",
+    "project_id": "barfli-222cf",
+    "storage_bucket": "barfli-222cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039660542264:android:f05b97e14b2e3b858779cd",
+        "android_client_info": {
+          "package_name": "com.barfli.barfli"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039660542264-9jijahq5lfni3a5fmboqffs78gr5dsdg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe2ZgMCmQoq6d7N4us8zYaJuGjFlI46FE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039660542264-9jijahq5lfni3a5fmboqffs78gr5dsdg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
